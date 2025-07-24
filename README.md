@@ -55,7 +55,7 @@ Functional Specification:
 
 <img src="https://imgur.com/gdsCmoY.png" width=100%>
 
-<img src="https://cdn.corenexis.com/media?7s8ih4&168H&p&b&epsx.png" width=100%>
+<img src="https://i.postimg.cc/xTCyLD7Z/mail-recived.png" width=100%>
 
 <b>How to run this project locally</b>
 1. clone this repo to www folder in WAMP software

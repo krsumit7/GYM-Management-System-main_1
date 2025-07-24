@@ -46,7 +46,7 @@ Functional Specification:
 <b>Snapshots</b>
 
 <img src="https://imgur.com/k8uCKmF.png" width=100%>
-<img src="https://cdn.corenexis.com/media?o3kzqm&168H&p&b&oe67.png" width=100%>
+<img src="https://i.postimg.cc/tJDkp9c3/student-login.png" width=100%>
 <img src="https://imgur.com/boG3UD5.png" width=100%>
 
 <img src="https://imgur.com/k3eLTbx.png" width=100%>
